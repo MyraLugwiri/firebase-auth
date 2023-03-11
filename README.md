@@ -4,7 +4,8 @@
 # flutter_auth
 
 A new Flutter project.
-
+## Error when Main file is run:
+[ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
